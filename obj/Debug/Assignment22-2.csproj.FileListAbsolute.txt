@@ -1,0 +1,7 @@
+C:\Users\alish\Desktop\Mphasis\Day-16\Assignment22-2\Assignment22-2\bin\Debug\Assignment22-2.exe.config
+C:\Users\alish\Desktop\Mphasis\Day-16\Assignment22-2\Assignment22-2\bin\Debug\Assignment22-2.exe
+C:\Users\alish\Desktop\Mphasis\Day-16\Assignment22-2\Assignment22-2\bin\Debug\Assignment22-2.pdb
+C:\Users\alish\Desktop\Mphasis\Day-16\Assignment22-2\Assignment22-2\obj\Debug\Assignment22-2.csproj.AssemblyReference.cache
+C:\Users\alish\Desktop\Mphasis\Day-16\Assignment22-2\Assignment22-2\obj\Debug\Assignment22-2.csproj.CoreCompileInputs.cache
+C:\Users\alish\Desktop\Mphasis\Day-16\Assignment22-2\Assignment22-2\obj\Debug\Assignment22-2.exe
+C:\Users\alish\Desktop\Mphasis\Day-16\Assignment22-2\Assignment22-2\obj\Debug\Assignment22-2.pdb
